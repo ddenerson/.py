@@ -1,7 +1,7 @@
 # Python basics
 --------------------------------------------------------------------------------
 
-## Basic 
+##  1 - Basic 
 
 POSITION|INFORMATION 
 --------- | ------
@@ -11,4 +11,5 @@ POSITION|INFORMATION
 03.1      | b_dict
 04        |tuples_sets
 05        | function
+06        | *args
 
