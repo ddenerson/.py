@@ -13,3 +13,10 @@ POSITION|INFORMATION
 05        | function
 06        | *args
 
+## 2 - Projects 
+
+POSITION | INFORMATION
+--------- | ------
+01        | rock_paper_scissors
+02        | guessing_game
+
