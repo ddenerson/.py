@@ -12,6 +12,7 @@ POSITION|INFORMATION
 04        |tuples_sets
 05        | function
 06        | *args
+07        | lambda
 
 ## 2 - Projects 
 
