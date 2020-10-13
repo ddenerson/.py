@@ -20,5 +20,5 @@ POSITION | INFORMATION
 --------- | ------
 01        | rock_paper_scissors
 02        | guessing_game
-03        | Movie Watchlist with SQL
+03        | Programming journal with SQL 
 
