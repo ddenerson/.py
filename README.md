@@ -3,7 +3,7 @@
 
 ##  1 - Basic 
 
-POSITION|INFORMATION 
+POSITION  |INFORMATION 
 --------- | ------
 01        | list
 02        | slice
@@ -13,12 +13,13 @@ POSITION|INFORMATION
 05        | function
 06        | *args
 07        | lambda
+08        | Oop
 
 ## 2 - Projects 
 
-POSITION | INFORMATION
+POSITION  | INFORMATION
 --------- | ------
 01        | rock_paper_scissors
 02        | guessing_game
 03        | Programming journal with SQLite 
-
+04        | WebScraping - encontrar e-mail-números[portuguese]
