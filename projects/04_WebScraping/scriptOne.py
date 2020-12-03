@@ -2,7 +2,7 @@ import re
 import urllib.request as request
 
 
-html = request.urlopen("http://www.pythonparatodos.com.br/contato")
+html = request.urlopen("http://www.escolhadosite.com.br/contatos")
 texto = html.read()
 
 busca_email = r'[\w]+@[\w.-]+'
