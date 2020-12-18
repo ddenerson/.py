@@ -22,4 +22,10 @@ POSITION  | INFORMATION
 01        | <a href="https://github.com/ddenerson/py.basic/blob/master/projects/01_rock_paper_scissors.py">Rock Paper Scissors<a/>
 02        | <a href="https://github.com/ddenerson/py.basic/blob/master/projects/02_guessing_game.py">Guessing Game<a/>
 03        | <a href="https://github.com/ddenerson/py.basic/blob/master/projects/03_App">Programming Journal with SQLite<a/>
-04        | WebScraping - encontrar e-mail e números[portuguese]<a/>
+
+
+## WebScraping
+ 
+ POSITION | INFORMATION
+--------- | ------
+01        |  Encontrar e-mail e números[portuguese]
