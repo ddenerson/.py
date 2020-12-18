@@ -5,21 +5,21 @@
 
 POSITION  |INFORMATION 
 --------- | ------
-01        | list
-02        | slice
-03        | a_dict
-03.1      | b_dict
-04        |tuples_sets
-05        | function
-06        | *args
-07        | lambda
-08        | Oop
+01        | List
+02        | Slice
+03        | Dict
+03.1      | Dict
+04        |Tuples Sets
+05        |Function
+06        |*Args
+07        |Lambda
+08        |Oop
 
 ## 2 - Projects 
 
 POSITION  | INFORMATION
 --------- | ------
-01        | rock_paper_scissors
-02        | guessing_game
-03        | Programming journal with SQLite 
-04        | WebScraping - encontrar e-mail-números[portuguese]
+01        | Rock Paper Scissors
+02        | Guessing Game
+03        | Programming Journal with SQLite 
+04        | WebScraping - encontrar e-mail e números[portuguese]
