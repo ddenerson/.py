@@ -1,7 +1,7 @@
 # Python 
 --------------------------------------------------------------------------------
 
-##  1 - Basic 
+##   - Basic 
 
 POSITION  |INFORMATION 
 --------- | ------
@@ -15,7 +15,7 @@ POSITION  |INFORMATION
 07        |<a href="https://github.com/ddenerson/py.basic/blob/master/basic/07_lambda.py">Lambda<a/>
 08        |<a href="https://github.com/ddenerson/py.basic/blob/master/basic/08_Oop.ipynb">Oop<a/>
 
-## 2 - Projects 
+##  - Projects 
 
 POSITION  | INFORMATION
 --------- | ------
