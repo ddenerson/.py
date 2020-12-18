@@ -13,7 +13,7 @@ POSITION  |INFORMATION
 05        |<a href="https://github.com/ddenerson/py.basic/blob/master/basic/05_function.py">Function</a>
 06        |<a href="https://github.com/ddenerson/py.basic/blob/master/basic/06_*args.py">*Args<a/>
 07        |<a href="https://github.com/ddenerson/py.basic/blob/master/basic/07_lambda.py">Lambda<a/>
-08        |<a href="https://github.com/ddenerson/py.basic/blob/master/basic/08_Oop.ipynb">Oop<a/>
+08        |<a href="https://github.com/ddenerson/py.basic/blob/master/basic/08_Oop.ipynb">Oop basic <a/>
 
 ##  - Projects 
 
