@@ -14,6 +14,12 @@ POSITION  |INFORMATION
 06        |<a href="https://github.com/ddenerson/py.basic/blob/master/basic/06_*args.py">*Args<a/>
 07        |<a href="https://github.com/ddenerson/py.basic/blob/master/basic/07_lambda.py">Lambda<a/>
 08        |<a href="https://github.com/ddenerson/py.basic/blob/master/basic/08_Oop.ipynb">Oop basic <a/>
+ 
+##  -   Standard library
+
+POSITION  | INFORMATION
+--------- | ------
+ 01       | <a href="https://github.com/ddenerson/py.basic/tree/master/%20Standard%20library">Datetime<a/>
 
 ##  - Projects 
 
@@ -24,8 +30,9 @@ POSITION  | INFORMATION
 03        | <a href="https://github.com/ddenerson/py.basic/blob/master/projects/03_App">Programming Journal with SQLite<a/>
 
 
-## WebScraping
+## - WebScraping
  
  POSITION | INFORMATION
 --------- | ------
 01        |  <a href="https://github.com/ddenerson/py.basic/tree/master/WebScraping">Encontrar e-mail e números[portuguese]<a/>
+ 02       | <a href="https://github.com/ddenerson/py.basic/tree/master/WebScraping/02-%20Stock%20price%20">Stock price<a/>
