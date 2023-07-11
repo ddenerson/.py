@@ -28,11 +28,6 @@ POSITION  | INFORMATION
 01        | <a href="https://github.com/ddenerson/py.basic/blob/master/projects/01_rock_paper_scissors.py">Rock Paper Scissors<a/>
 02        | <a href="https://github.com/ddenerson/py.basic/blob/master/projects/02_guessing_game.py">Guessing Game<a/>
 03        | <a href="https://github.com/ddenerson/py.basic/blob/master/projects/03_App">Programming Journal with SQLite<a/>
+04        |  <a href="https://github.com/ddenerson/py.basic/tree/master/WebScraping">  WebScraping - Encontrar e-mail e números[portugues]<a/>
+05        | <a href="https://github.com/ddenerson/py.basic/tree/master/WebScraping/02-%20Stock%20price%20"> WebScraping - Stock price<a/>
 
-
-## - WebScraping
- 
- POSITION | INFORMATION
---------- | ------
-01        |  <a href="https://github.com/ddenerson/py.basic/tree/master/WebScraping">Encontrar e-mail e números[portuguese]<a/>
- 02       | <a href="https://github.com/ddenerson/py.basic/tree/master/WebScraping/02-%20Stock%20price%20">Stock price<a/>
